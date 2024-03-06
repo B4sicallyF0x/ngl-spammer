@@ -14,3 +14,9 @@ To use the program, simply follow these steps:
 
 # ⚠️ Disclaimer ⚠️
 This program is for educational purposes only. It should not be used to send spam messages to people who do not want to receive them. I am not responsible for the uses that are given to this tool.
+
+## Doubts?
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+Contact me on Telegram: **[@b4sicallyf0x](https://telegram.me/b4sicallyf0x)**
