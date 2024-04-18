@@ -1,4 +1,4 @@
-# NGL Spammer (https://ko-fi.com/s/fe08c27170)
+# NGL Spammer
 This program is an educational tool that can be used to send spam messages to NGL. It is designed to help users understand how spam works and how to protect themselves from it.
 
 ## How to use
